@@ -6,32 +6,32 @@
     <groups>
     </groups>
     <test name="Default test" duration-ms="46647" started-at="2020-11-26T17:44:13Z" finished-at="2020-11-26T17:45:00Z">
-      <class name="Selenium4.Selenium4.testSuit">
-        <test-method status="PASS" signature="setup()[pri:0, instance:Selenium4.Selenium4.testSuit@598067a5]" name="setup" is-config="true" duration-ms="7759" started-at="2020-11-26T17:44:13Z" finished-at="2020-11-26T17:44:21Z">
+      <class name="Selenium4.Selenium4.TestSuite">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Selenium4.Selenium4.TestSuite@598067a5]" name="setup" is-config="true" duration-ms="7759" started-at="2020-11-26T17:44:13Z" finished-at="2020-11-26T17:44:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="scenario1()[pri:0, instance:Selenium4.Selenium4.testSuit@598067a5]" name="scenario1" duration-ms="5354" started-at="2020-11-26T17:44:21Z" finished-at="2020-11-26T17:44:26Z">
+        <test-method status="PASS" signature="scenario1()[pri:0, instance:Selenium4.Selenium4.TestSuite@598067a5]" name="scenario1" duration-ms="5354" started-at="2020-11-26T17:44:21Z" finished-at="2020-11-26T17:44:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario1 -->
-        <test-method status="PASS" signature="scenario2()[pri:0, instance:Selenium4.Selenium4.testSuit@598067a5]" name="scenario2" duration-ms="21514" started-at="2020-11-26T17:44:26Z" finished-at="2020-11-26T17:44:48Z">
+        <test-method status="PASS" signature="scenario2()[pri:0, instance:Selenium4.Selenium4.TestSuite@598067a5]" name="scenario2" duration-ms="21514" started-at="2020-11-26T17:44:26Z" finished-at="2020-11-26T17:44:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario2 -->
-        <test-method status="PASS" signature="scenario3()[pri:0, instance:Selenium4.Selenium4.testSuit@598067a5]" name="scenario3" duration-ms="6134" started-at="2020-11-26T17:44:48Z" finished-at="2020-11-26T17:44:54Z">
+        <test-method status="PASS" signature="scenario3()[pri:0, instance:Selenium4.Selenium4.TestSuite@598067a5]" name="scenario3" duration-ms="6134" started-at="2020-11-26T17:44:48Z" finished-at="2020-11-26T17:44:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario3 -->
-        <test-method status="PASS" signature="scenario4()[pri:0, instance:Selenium4.Selenium4.testSuit@598067a5]" name="scenario4" duration-ms="5072" started-at="2020-11-26T17:44:54Z" finished-at="2020-11-26T17:44:59Z">
+        <test-method status="PASS" signature="scenario4()[pri:0, instance:Selenium4.Selenium4.TestSuite@598067a5]" name="scenario4" duration-ms="5072" started-at="2020-11-26T17:44:54Z" finished-at="2020-11-26T17:44:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario4 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Selenium4.Selenium4.testSuit@598067a5]" name="tearDown" is-config="true" duration-ms="768" started-at="2020-11-26T17:44:59Z" finished-at="2020-11-26T17:45:00Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Selenium4.Selenium4.TestSuite@598067a5]" name="tearDown" is-config="true" duration-ms="768" started-at="2020-11-26T17:44:59Z" finished-at="2020-11-26T17:45:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Selenium4.Selenium4.testSuit -->
+      </class> <!-- Selenium4.Selenium4.TestSuite -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
